@@ -1,0 +1,5 @@
+total 8
+-rw-rw-r--. 1 gant gant 39 Sep 30 18:15 bash_script.sh
+-rw-rw-r--. 1 gant gant  0 Sep 30 17:39 hello.txt
+-rw-rw-r--. 1 gant gant  0 Sep 30 18:15 lista_HOME.txt
+-rw-rw-r--. 1 gant gant 23 Sep 28 23:59 README.md
