@@ -1,5 +1,5 @@
 pwd
 
-ls -lF > lista_HOME.txt
+ls -lF /home/gant > lista_HOME.txt
 
 date +%D

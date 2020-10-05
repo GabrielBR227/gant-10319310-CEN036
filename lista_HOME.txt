@@ -1,5 +1,17 @@
-total 8
--rw-rw-r--. 1 gant gant 39 Sep 30 18:15 bash_script.sh
--rw-rw-r--. 1 gant gant  0 Sep 30 17:39 hello.txt
--rw-rw-r--. 1 gant gant  0 Sep 30 18:15 lista_HOME.txt
--rw-rw-r--. 1 gant gant 23 Sep 28 23:59 README.md
+total 60
+drwxrwxr-x. 3 gant gant 4096 Sep  3 23:06 CEN0336/
+drwxrwxr-x. 3 gant gant 4096 Sep 10 22:03 cen0336-quizz4/
+-rwxrwxr-x. 1 gant gant 1518 Oct  1 23:24 ex_ultimo_p3.py*
+-rw-rw-r--. 1 gant gant    0 Sep  3 14:19 first_vi_file.txt
+drwxrwxr-x. 3 gant gant 4096 Oct  2 00:55 gant_10319310-CEN036/
+-rw-rw-r--. 1 gant gant    3 Sep  3 15:02 git_exercise.txt
+-rw-r--r--. 1 gant gant    0 Aug 24 19:08 INBOX
+drwxr-xr-x. 2 gant gant 4096 Aug 24 19:07 Mail/
+-rw-------. 1 gant gant   13 Sep  3 14:01 nano.save
+drwxr-xr-x. 2 gant gant 4096 Aug 24 19:07 News/
+-rw-rw-r--. 1 gant gant    2 Sep  3 14:06 primeiro_arquivo_nano.txt
+drwxrwxr-x. 2 gant gant 4096 Sep  3 18:40 problemsets/
+-rw-rw-r--. 1 gant gant   37 Sep 30 17:36 README.md
+drwxrwxr-x. 3 gant gant 4096 Sep  3 22:31 Repositorio/
+drwxrwxr-x. 2 gant gant 4096 Aug 21 00:40 semana1/
+-rwxrwxr-x. 1 gant gant 4149 Oct  1 23:25 train_py3.py*
