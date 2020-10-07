@@ -40,3 +40,4 @@ elif DNA1[n4-1:n4+2] == "TAG":
 	print(DNA1[n1-1:n2-1]+DNA1[n3-1:n4-1])
 else: 
 	print("CDS2 não termina com códon de parada")
+
